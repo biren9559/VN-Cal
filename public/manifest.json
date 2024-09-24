@@ -1,7 +1,18 @@
 {
-  "short_name": "VN Calculator",
-  "name": "VN Calc",
-
+  "short_name": "VNCalc",
+  "name": "VN Calculator",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
